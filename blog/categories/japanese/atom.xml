@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://embrymonad.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: japanese | My Octopress Blog]]></title>
+  <link href="http://embrymonad.github.io/blog/categories/japanese/atom.xml" rel="self"/>
   <link href="http://embrymonad.github.io/"/>
   <updated>2015-03-07T00:12:10+09:00</updated>
   <id>http://embrymonad.github.io/</id>
