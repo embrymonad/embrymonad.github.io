@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[EmbryMonad]]></title>
-  <link href="http://embrymonad.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: life | EmbryMonad]]></title>
+  <link href="http://embrymonad.github.io/blog/categories/life/atom.xml" rel="self"/>
   <link href="http://embrymonad.github.io/"/>
   <updated>2015-03-08T14:08:34+09:00</updated>
   <id>http://embrymonad.github.io/</id>
@@ -49,72 +49,6 @@
 <hr />
 
 <p>洋化纪初年樱岚迹初月初秩渐曜日华刻时</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[日语初级下 30を勉強する]]></title>
-    <link href="http://embrymonad.github.io/blog/2015/03/06/jpn3-30/"/>
-    <updated>2015-03-06T23:59:01+09:00</updated>
-    <id>http://embrymonad.github.io/blog/2015/03/06/jpn3-30</id>
-    <content type="html"><![CDATA[<p>gg</p>
-
-<h2>言语</h2>
-
-<p>宅配便　たくはいひん</p>
-
-<blockquote><p>宅急便　たっきゅうびん<br/></p></blockquote>
-
-<p>報告書　ほうこくしょ</p>
-
-<blockquote><p>報告書を提出してください<br/>
-報告書を提出して<br/>
-報告書を提出しなさい<br/>
-ほうこくしょ提出しろ<br/></p></blockquote>
-
-<!--more-->
-
-
-<p>梅雨　つゆ</p>
-
-<blockquote><p>梅雨に入る<br/>
-つゆが明ける。<br/></p></blockquote>
-
-<p>秋　あき</p>
-
-<p>ピクニック　pinic</p>
-
-<blockquote><p>敷物　しきもの<br/>
-お弁当　おべんと<br/>
-水筒　すいとう<br/>
-帽子　ぼうし<br/></p></blockquote>
-
-<p>行楽地　こうらくち</p>
-
-<p>ピザ　</p>
-
-<p>終電　しゅうでん</p>
-
-<p>待合室　まちあいしつ</p>
-
-<p>患者　かんじゃ</p>
-
-<p>灰皿　はいざら</p>
-
-<p>吸殻　すいがら</p>
-
-<p>歯　は</p>
-
-<blockquote><p>歯医者　はいしゃ<br/>
-歯磨き　はみがき</p></blockquote>
-
-<p>彼　かれ</p>
-
-<blockquote><p>彼氏　かれし</p></blockquote>
-
-<p>揃います</p>
-
-<blockquote><p>箸が揃っていない。<br/></p></blockquote>
 ]]></content>
   </entry>
   
