@@ -4,7 +4,7 @@
   <title><![CDATA[Category: life | EmbryMonad]]></title>
   <link href="http://embrymonad.github.io/blog/categories/life/atom.xml" rel="self"/>
   <link href="http://embrymonad.github.io/"/>
-  <updated>2015-03-08T17:47:48+09:00</updated>
+  <updated>2015-03-28T00:24:52+09:00</updated>
   <id>http://embrymonad.github.io/</id>
   <author>
     <name><![CDATA[embrymonad]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[天堂陨落]]></title>
+    <link href="http://embrymonad.github.io/blog/2015/03/27/heaven/"/>
+    <updated>2015-03-27T23:57:08+09:00</updated>
+    <id>http://embrymonad.github.io/blog/2015/03/27/heaven</id>
+    <content type="html"><![CDATA[<p>昨天，惊闻了B站大量新番与经典动画下架的悲报。</p>
+
+<p>今天，Github又遭到了百度统计的无良攻击。只是不知道这到底是百度本身所为还是别的组织负责的。</p>
+
+<p>我竟不能更加悲伤了。感觉终于革到了自己的头上。之前各类美剧下架，我感觉还不是那么明显，毕竟咱平时美剧看的很少。然而今日确确实实感受到了这些烂事对自己日常生活的影响。虽然说确实在B战播放的动漫存在诸如版权等问题，那些暂且不表。还有很多是被***暴力干掉的。以后，我们就很难享受到到一边看废萌番一边欣赏小学生PK弹幕的温馨景象了。尽管我们还是可以通过爱奇艺、腾讯视频等渠道拐弯抹角去发现那些藏在巷子里面的好酒，但是像诸如《东京残响》这种大陆全然没有版权的番是彻底的离开了我们了。</p>
+
+<!-- more -->
+
+
+<p>我再也不能享受到B站看新番的乐趣了。没有了动漫，我们看什么？看抗日神剧么？</p>
+
+<p>然后今天本来下午在向 GitHub 提 pr 的时候各种 Operation time out, 已经很不爽了，晚上得知还有这一出。***之行为真是令我大开眼界啊！我再也不说什么了。</p>
+
+<p>天堂即将陨落，我又何处容身呢？我于是又臆想起幻想乡的美好。想去那个众人众神众妖怪求同存异的世界。大家虽然彼此不同，虽然偶有争吵<del>弹幕轰击</del>，但是总体上还是友好的，大家是能在一起愉快地玩耍的。掉节操的灵梦，飞来飞去的魔理沙，还有那个叮当叮当的香霖堂，是多么的幽玄。我愿在寒明逝去的时刻，在樱岚飞起的地方，以类型为媒，以范畴为役，开辟出这样一个美好的地方。</p>
+
+<p>这也大概是我想学 type theory, category theory 和 Functional programming 的原因罢。 我坚信幻想乡的奥秘，就吃吃地隐藏在这些严谨的演算中。我希望能在有生之年，构造出幻想乡的因果律，然后彻底地将自己二向化其中。</p>
+
+<p>自己心情很复杂， 不知道自己究竟说了什么。。。。。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[神展开的一天]]></title>
